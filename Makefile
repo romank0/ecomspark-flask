@@ -1,2 +1,2 @@
 run:
-	FLASK_APP=ecomspark.py FLASK_ENV=development flask run
+	FLASK_APP=ecomspark.py FLASK_DEBUG=true flask run
